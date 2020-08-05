@@ -1,0 +1,22 @@
+{
+  "name": "poo-productapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasMoura2/poo-productapp.git"
+  },
+  "author": "Elias MOura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliasMoura2/poo-productapp/issues"
+  },
+  "homepage": "https://github.com/EliasMoura2/poo-productapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
